@@ -4,7 +4,7 @@
 <img aling="center" with=40px height=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 </div>
 
-This is a basic and fun project that I did by following the tutotrial from the channel "freeCodCamp"
+This is a basic and fun project that I did by following the tutorial from the channel "freeCodCamp"
 
 I used the following JavaScript methods:
 <ul>
