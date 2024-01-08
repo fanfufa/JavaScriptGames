@@ -1,5 +1,5 @@
  <header>
-    This is the classic memory game where there are pieces, each with a pair, and you need to find the matching pairs to complete the game <br><br>
+      This is the classic memory game where there are pieces, each with a pair, and you need to find the matching pairs to complete the game <br><br>
   </header>
 
   <h2> Methods used: </h2>
